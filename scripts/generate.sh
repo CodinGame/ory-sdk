@@ -321,15 +321,15 @@ elixir () {
   cp "LICENSE" "clients/${PROJECT}/elixir"
 }
 
-elixir
+# elixir
 typescript
-rust
-golang
-java
-php
-python
-ruby
-dotnet
-dart
+# rust
+# golang
+# java
+# php
+# python
+# ruby
+# dotnet
+# dart
 
 cleanup
